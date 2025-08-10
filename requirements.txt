@@ -1,0 +1,28 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# NLP
+textblob
+nltk
+spacy
+
+# Computer Vision
+opencv-python
+colorthief
+
+# Database
+SQLAlchemy
+psycopg2-binary  # for PostgreSQL
+sqlite-utils     # for SQLite
+
+# Dashboard
+streamlit
+
+# Extras
+python-dotenv
+jupyter
+shap
